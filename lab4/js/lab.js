@@ -1,6 +1,6 @@
 // Pong Psuedocode.
 // High level Psuedocode for the game pong.
-// https://brechou.github.io/art101/lab4/index.html
+// https://brentec2020.github.io/art101/lab4/index.html
 // art101/lab4/lab.js
 // Timothy Vermeersch, Brent Chou
 // 4.18.2022
