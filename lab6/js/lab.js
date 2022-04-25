@@ -22,3 +22,8 @@ myMainRide = {
 document.writeln("Kinds of transportation I use: ", myTransport, "</br>"");
 document.writeln("My Main Ride: <pre>",
     JSON.stringify(myMainRide, null, '\t'), "</pre>");
+
+function showOut(){
+    document.getElementById("output").style.display = "block";
+    document.getElementById("show").style.display = "none";
+}
